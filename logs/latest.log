@@ -1,50 +1,146 @@
-[11:48:53] [main/INFO]: Setting user: Hoobs
-[11:48:53] [main/INFO]: (Session ID is token:c205101a97ad4b2384d53e12f75ab930:5239603beed441f9a19aa32a2567712f)
-[11:48:54] [Client thread/INFO]: LWJGL Version: 2.9.1
-[11:48:56] [Client thread/INFO]: Reloading ResourceManager: Default
-[11:48:57] [Sound Library Loader/INFO]: Sound engine started
-[11:49:10] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[11:49:10] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[11:51:44] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[11:51:44] [Server thread/INFO]: Generating keypair
-[11:51:45] [Server thread/INFO]: Preparing start region for level 0
-[11:51:46] [Server thread/INFO]: Preparing spawn area: 60%
-[11:51:46] [Server thread/INFO]: Changing view distance to 8, from 10
-[11:51:46] [Server thread/INFO]: Hoobs[local:E:10fc9260] logged in with entity id 287 at (68.74372767506877, 64.0, 627.226225704428)
-[11:51:46] [Server thread/INFO]: Hoobs joined the game
-[12:10:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 185 ms
-[12:10:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 142 ms
-[12:10:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 157 ms
-[12:11:45] [Server thread/INFO]: Saving and pausing game...
-[12:11:45] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
-[12:11:46] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
-[12:11:46] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
-[12:26:43] [Server thread/INFO]: Hoobs has just earned the achievement [Hot Topic]
-[12:26:43] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [Hot Topic]
-[12:27:36] [Server thread/INFO]: Hoobs has just earned the achievement [Bake Bread]
-[12:27:36] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [Bake Bread]
-[12:28:00] [Server thread/INFO]: Hoobs has just earned the achievement [Acquire Hardware]
-[12:28:00] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [Acquire Hardware]
-[12:28:16] [Server thread/INFO]: Hoobs has just earned the achievement [DIAMONDS!]
-[12:28:16] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [DIAMONDS!]
-[12:28:30] [Server thread/INFO]: Saving and pausing game...
-[12:28:30] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
-[12:28:30] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
-[12:28:30] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
-[12:45:12] [Server thread/INFO]: Hoobs has just earned the achievement [Time to Strike!]
-[12:45:12] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [Time to Strike!]
-[12:55:01] [Server thread/INFO]: Saving and pausing game...
-[12:55:01] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
-[12:55:01] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
-[12:55:01] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
-[12:57:03] [Server thread/INFO]: Saving and pausing game...
-[12:57:03] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
-[12:57:03] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
-[12:57:03] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
-[12:57:06] [Server thread/INFO]: Stopping server
-[12:57:06] [Server thread/INFO]: Saving players
-[12:57:06] [Server thread/INFO]: Saving worlds
-[12:57:06] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
-[12:57:06] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
-[12:57:06] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
-[12:57:07] [Client thread/INFO]: Stopping!
+[20:14:12] [main/INFO]: Setting user: Hoobs
+[20:14:12] [main/INFO]: (Session ID is token:0050e836c46e4026b94b96fd94e38edd:5239603beed441f9a19aa32a2567712f)
+[20:14:12] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:14:16] [Client thread/INFO]: Reloading ResourceManager: Default
+[20:14:17] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:14:17] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:14:17] [Sound Library Loader/INFO]: Sound engine started
+[20:14:57] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:14:57] [Server thread/INFO]: Generating keypair
+[20:14:57] [Server thread/INFO]: Preparing start region for level 0
+[20:14:58] [Server thread/INFO]: Changing view distance to 8, from 10
+[20:14:58] [Server thread/INFO]: Hoobs[local:E:03d88234] logged in with entity id 287 at (-52.46414916627981, 59.0, 721.6999999880791)
+[20:14:58] [Server thread/INFO]: Hoobs joined the game
+[20:15:01] [Server thread/INFO]: Saving and pausing game...
+[20:15:01] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[20:15:01] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[20:15:01] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[20:15:56] [Server thread/INFO]: Hoobs has just earned the achievement [Monster Hunter]
+[20:15:56] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [Monster Hunter]
+[20:17:04] [Server thread/INFO]: Saving and pausing game...
+[20:17:04] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[20:17:04] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[20:17:04] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[20:25:40] [Server thread/INFO]: Saving and pausing game...
+[20:25:40] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[20:25:40] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[20:25:40] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[20:25:58] [Server thread/INFO]: Saving and pausing game...
+[20:25:58] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[20:25:58] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[20:25:58] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[20:26:17] [Server thread/INFO]: Saving and pausing game...
+[20:26:17] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[20:26:17] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[20:26:17] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[20:26:25] [Server thread/INFO]: Saving and pausing game...
+[20:26:25] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[20:26:25] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[20:26:25] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[20:26:39] [Server thread/INFO]: Saving and pausing game...
+[20:26:39] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[20:26:39] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[20:26:39] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[20:26:56] [Server thread/INFO]: Saving and pausing game...
+[20:26:56] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[20:26:56] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[20:26:56] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[20:33:38] [Server thread/INFO]: Hoobs has just earned the achievement [Cow Tipper]
+[20:33:38] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [Cow Tipper]
+[20:34:25] [Server thread/INFO]: Saving and pausing game...
+[20:34:25] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[20:34:25] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[20:34:25] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[20:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[20:37:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[20:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[20:37:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[20:42:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.hurt
+[20:42:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.hurt
+[20:42:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.hurt
+[20:42:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.hurt
+[20:42:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.hurt
+[20:42:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.hurt
+[20:42:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.hurt
+[20:42:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.hurt
+[20:42:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.hurt
+[20:42:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.hurt
+[20:42:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.hurt
+[20:42:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.idle
+[20:42:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.hurt
+[20:42:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.witch.death
+[20:48:09] [Server thread/INFO]: Saving and pausing game...
+[20:48:09] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[20:48:09] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[20:48:09] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[20:48:31] [Client thread/INFO]: [CHAT] Saved screenshot as 2014-07-13_20.48.31.png
+[21:05:36] [Server thread/INFO]: Saving and pausing game...
+[21:05:36] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[21:05:36] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[21:05:36] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[21:07:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:07:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:07:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:07:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:07:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:07:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:07:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:07:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:08:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:08:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:08:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:08:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:08:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:09:11] [Server thread/INFO]: Hoobs has just earned the achievement [Repopulation]
+[21:09:11] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [Repopulation]
+[21:09:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:10:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:10:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:11:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:11:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:12:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:12:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:12:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:12:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:12:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:13:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:13:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:13:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:13:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:13:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:13:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:13:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:13:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:14:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:14:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:14:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:14:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[21:15:01] [Server thread/INFO]: Saving and pausing game...
+[21:15:01] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[21:15:01] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[21:15:01] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[21:15:08] [Server thread/INFO]: Saving and pausing game...
+[21:15:08] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[21:15:08] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[21:15:08] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[21:15:09] [Server thread/INFO]: Stopping server
+[21:15:09] [Server thread/INFO]: Saving players
+[21:15:09] [Server thread/INFO]: Saving worlds
+[21:15:09] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[21:15:09] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[21:15:09] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[21:15:10] [Client thread/INFO]: Stopping!
