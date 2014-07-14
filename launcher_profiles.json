@@ -1,0 +1,22 @@
+{
+  "profiles": {
+    "Hoobs": {
+      "name": "Hoobs",
+      "playerUUID": "5239603beed441f9a19aa32a2567712f"
+    },
+    "(Default)": {
+      "name": "(Default)"
+    }
+  },
+  "selectedProfile": "Hoobs",
+  "clientToken": "fb5d957f-2888-4537-9e39-e1587e6eb1e9",
+  "authenticationDatabase": {
+    "5239603beed441f9a19aa32a2567712f": {
+      "username": "Hoobs",
+      "accessToken": "0050e836c46e4026b94b96fd94e38edd",
+      "userid": "2881909",
+      "uuid": "5239603b-eed4-41f9-a19a-a32a2567712f",
+      "displayName": "Hoobs"
+    }
+  }
+}

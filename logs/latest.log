@@ -1,0 +1,50 @@
+[11:48:53] [main/INFO]: Setting user: Hoobs
+[11:48:53] [main/INFO]: (Session ID is token:c205101a97ad4b2384d53e12f75ab930:5239603beed441f9a19aa32a2567712f)
+[11:48:54] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:48:56] [Client thread/INFO]: Reloading ResourceManager: Default
+[11:48:57] [Sound Library Loader/INFO]: Sound engine started
+[11:49:10] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:49:10] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:51:44] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:51:44] [Server thread/INFO]: Generating keypair
+[11:51:45] [Server thread/INFO]: Preparing start region for level 0
+[11:51:46] [Server thread/INFO]: Preparing spawn area: 60%
+[11:51:46] [Server thread/INFO]: Changing view distance to 8, from 10
+[11:51:46] [Server thread/INFO]: Hoobs[local:E:10fc9260] logged in with entity id 287 at (68.74372767506877, 64.0, 627.226225704428)
+[11:51:46] [Server thread/INFO]: Hoobs joined the game
+[12:10:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 185 ms
+[12:10:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 142 ms
+[12:10:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 157 ms
+[12:11:45] [Server thread/INFO]: Saving and pausing game...
+[12:11:45] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[12:11:46] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[12:11:46] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[12:26:43] [Server thread/INFO]: Hoobs has just earned the achievement [Hot Topic]
+[12:26:43] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [Hot Topic]
+[12:27:36] [Server thread/INFO]: Hoobs has just earned the achievement [Bake Bread]
+[12:27:36] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [Bake Bread]
+[12:28:00] [Server thread/INFO]: Hoobs has just earned the achievement [Acquire Hardware]
+[12:28:00] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [Acquire Hardware]
+[12:28:16] [Server thread/INFO]: Hoobs has just earned the achievement [DIAMONDS!]
+[12:28:16] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [DIAMONDS!]
+[12:28:30] [Server thread/INFO]: Saving and pausing game...
+[12:28:30] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[12:28:30] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[12:28:30] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[12:45:12] [Server thread/INFO]: Hoobs has just earned the achievement [Time to Strike!]
+[12:45:12] [Client thread/INFO]: [CHAT] Hoobs has just earned the achievement [Time to Strike!]
+[12:55:01] [Server thread/INFO]: Saving and pausing game...
+[12:55:01] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[12:55:01] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[12:55:01] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[12:57:03] [Server thread/INFO]: Saving and pausing game...
+[12:57:03] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[12:57:03] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[12:57:03] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[12:57:06] [Server thread/INFO]: Stopping server
+[12:57:06] [Server thread/INFO]: Saving players
+[12:57:06] [Server thread/INFO]: Saving worlds
+[12:57:06] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Overworld
+[12:57:06] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/Nether
+[12:57:06] [Server thread/INFO]: Saving chunks for level 'Hardcore Wut'/The End
+[12:57:07] [Client thread/INFO]: Stopping!
